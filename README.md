@@ -26,3 +26,14 @@ Trabajo en la interseccion de **enfermeria, simulacion clinica e inteligencia ar
 ## Contacto
 
 Para colaboraciones academicas, tecnicas o de formacion, escribime por LinkedIn.
+
+## Linea de Evolucion de Proyectos
+
+Mantengo repos de una misma familia para mostrar **proceso, mejora iterativa y aprendizaje aplicado** en mi marca personal.
+
+- ECG: `ECG-Simulator-V0-Beta` -> `ECG-Simulator` -> `ECG-Simulator2`
+- Portfolio: versiones historicas + `PORTFOLIO_LANKAMAR.V03` como version activa
+- IA aplicada en salud/educacion: iteraciones entre prototipos (RAG, voz, simulacion)
+
+> Nota: no son duplicados sin sentido; son hitos de evolucion tecnica y metodologica.
+
