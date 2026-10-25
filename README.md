@@ -1,39 +1,50 @@
-# LANKAMAR | Portfolio Profesional
+# Marcelo Omar Lancry Kamycki · LANKAMAR
 
-Hola, soy **Marcelo Omar Lancry Kamycki (LANKAMAR)**.
+**Lic. en Enfermería (UNLa) · Jefe de Enfermería — Hospital de Clínicas José de San Martín (UBA)**
+Tecnología educativa e IA aplicada a salud.
 
-Trabajo en la interseccion de **enfermeria, simulacion clinica e inteligencia artificial aplicada**.
+Treinta y cinco años de práctica clínica y gestión hospitalaria, hoy traducidos en herramientas de
+inteligencia artificial para la formación en salud: simuladores, asistentes conversacionales,
+procesamiento de datos clínicos y recursos educativos.
 
-## Portfolio Principal
+Lo que me interesa no es la IA como fin, sino como forma de resolver problemas concretos de un
+hospital universitario: reducir el error en la administración de medicación, entrenar sin riesgo,
+evaluar desempeño con evidencia y proteger los datos de los pacientes.
 
-- Portfolio web: https://github.com/lankamar/PORTFOLIO_LANKAMAR.V03
-- LinkedIn: https://www.linkedin.com/in/lankamar/
-- Repositorio academico: https://github.com/lankamar/academic-portfolio
+---
 
-## Proyectos Destacados
+## Proyectos destacados
 
-- SiBIC - Simulador de Bombas de Infusion: https://github.com/lankamar/simulador-bic-lankamar
-- ECG Simulator 2: https://github.com/lankamar/ECG-Simulator2
-- Cerebro Obsidian RAG: https://github.com/lankamar/Cerebro_Obsidian_RAG
-- Motor de Voz Global: https://github.com/lankamar/Motor_de_Voz_Global
+| Proyecto | Qué resuelve | Stack |
+|---|---|---|
+| **[ECG Simulator](https://github.com/lankamar/ECG-Simulator2)** · [demo](https://ecg-simulator2.vercel.app) | Simulador de arritmias con 12 derivaciones para entrenamiento de enfermería | TypeScript · React |
+| **[Shock Room Simulator](https://github.com/lankamar/shock-room-simulator)** | Monitor multiparamétrico con escenarios de UTI y signos vitales en tiempo real | TypeScript |
+| **[SiBIC](https://github.com/lankamar/simulador-bic-lankamar)** | Simulador de bombas de infusión continua para práctica segura de medicación | Flutter · Dart |
+| **[Nurse Eval AI](https://github.com/lankamar/nurse-eval-ai)** | Evaluación de desempeño de enfermería asistida por IA conversacional | Python |
+| **[Anonimizador clínico](https://github.com/lankamar/anonimizador-clinico)** | Anonimización local de datos clínicos, compatible con Ley 25.326 | Python |
+| **[Pragmatic LLM Alignment](https://github.com/lankamar/pragmatic-llm-alignment)** | Investigación sobre alineación de LLMs con marcadores de retroalimentación | Python |
 
-## Enfoque
+## Formación
 
-- IA para educacion y practica en salud
-- Flujos clinicos asistidos por IA
-- Prototipos de simulacion para reduccion de errores
+- **Especialización en Diseño de la Enseñanza con Tecnologías (EDET)** — CITEP, UBA.
+  7 seminarios y talleres aprobados · 384 horas · TFI en curso.
+- **Licenciatura en Enfermería** — Universidad Nacional de Lanús.
+- **Máster Ejecutivo en Inteligencia Artificial** — Instituto de Inteligencia Artificial (España), en curso.
+- **309 credenciales de formación continua** (2023–2026) en IA aplicada, docencia con tecnologías y gestión.
 
-## Contacto
+## Herramientas
 
-Para colaboraciones academicas, tecnicas o de formacion, escribime por LinkedIn.
+`Python` · `TypeScript` · `JavaScript` · `Flutter / Dart` · `RAG (Ollama, ChromaDB)` · `TTS / clonación de voz`
+`NotebookLM` · `GitHub` · `Obsidian` · `Google AI Studio` · `Copilot / ChatGPT / Gemini`
 
-## Linea de Evolucion de Proyectos
+## Enlaces
 
-Mantengo repos de una misma familia para mostrar **proceso, mejora iterativa y aprendizaje aplicado** en mi marca personal.
+- Sitio: https://teal-gnat-607186.hostingersite.com
+- LinkedIn: https://www.linkedin.com/in/lankamar
+- ORCID: https://orcid.org/0009-0008-8196-6291
+- Email: lankamar@gmail.com
 
-- ECG: `ECG-Simulator-V0-Beta` -> `ECG-Simulator` -> `ECG-Simulator2`
-- Portfolio: versiones historicas + `PORTFOLIO_LANKAMAR.V03` como version activa
-- IA aplicada en salud/educacion: iteraciones entre prototipos (RAG, voz, simulacion)
+---
 
-> Nota: no son duplicados sin sentido; son hitos de evolucion tecnica y metodologica.
-
+<sub>Los prototipos anteriores de cada línea de trabajo quedan archivados como registro del proceso de
+diseño: no son entregas finales.</sub>
