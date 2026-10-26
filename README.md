@@ -3,7 +3,7 @@
 **Lic. en Enfermería (UNLa) · Jefe de Enfermería — Hospital de Clínicas José de San Martín (UBA)**
 Tecnología educativa e IA aplicada a salud.
 
-Treinta y cinco años de práctica clínica y gestión hospitalaria, hoy traducidos en herramientas de
+Treinta y seis años de práctica clínica y gestión hospitalaria, hoy traducidos en herramientas de
 inteligencia artificial para la formación en salud: simuladores, asistentes conversacionales,
 procesamiento de datos clínicos y recursos educativos.
 
@@ -17,6 +17,7 @@ evaluar desempeño con evidencia y proteger los datos de los pacientes.
 
 | Proyecto | Qué resuelve | Stack |
 |---|---|---|
+| **[Lector Alonso](https://github.com/lankamar/lector-alonso)** | Extensión de Chrome + backend FastAPI que lee en voz alta texto seleccionado, documentos y OCR, con seis voces en español | Python · FastAPI · Chrome MV3 · TTS |
 | **[ECG Simulator](https://github.com/lankamar/ECG-Simulator2)** · [demo](https://ecg-simulator2.vercel.app) | Simulador de arritmias con 12 derivaciones para entrenamiento de enfermería | TypeScript · React |
 | **[Shock Room Simulator](https://github.com/lankamar/shock-room-simulator)** | Monitor multiparamétrico con escenarios de UTI y signos vitales en tiempo real | TypeScript |
 | **[SiBIC](https://github.com/lankamar/simulador-bic-lankamar)** | Simulador de bombas de infusión continua para práctica segura de medicación | Flutter · Dart |
@@ -30,7 +31,7 @@ evaluar desempeño con evidencia y proteger los datos de los pacientes.
   7 seminarios y talleres aprobados · 384 horas · TFI en curso.
 - **Licenciatura en Enfermería** — Universidad Nacional de Lanús.
 - **Máster Ejecutivo en Inteligencia Artificial** — Instituto de Inteligencia Artificial (España), en curso.
-- **309 credenciales de formación continua** (2023–2026) en IA aplicada, docencia con tecnologías y gestión.
+- **311 credenciales de formación continua** (2023–2026) en IA aplicada, docencia con tecnologías y gestión.
 
 ## Herramientas
 
